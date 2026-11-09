@@ -1,0 +1,18 @@
+# Vivado generated data and logs
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.jou
+*.log
+*.wdb
+*.bit
+*.bin
+*.str
+*.dcp
+
+# Local editor files
+*.swp
+*~
